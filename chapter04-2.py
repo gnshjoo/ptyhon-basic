@@ -42,3 +42,61 @@ names = ['Kim', 'Park', 'Cho', 'Choi', 'Yoo']
 
 for name in names:
     print('You are : ',name)
+
+# Ex 2
+lotto_numbers = [11, 19, 21, 28, 36, 37]
+
+for n in lotto_numbers:
+    print("Current number : ", n)
+
+# Ex 3
+word = "Beaultiful"
+
+for s in word:
+    print(s)
+
+# Ex 4
+my_info = {
+    "name" : "Lee",
+    "Age" : 33,
+    "city" : "Seoul"
+}
+
+for key in my_info:
+    print("key : ", my_info.get(key))
+
+for v in my_info.values():
+    print('vaules', v)
+    
+
+# Ex 5
+
+name = 'FineAppLE'
+
+for n in name:
+    if n.isupper():
+        print(n)
+    else:
+        print(n.upper())
+
+# break 
+
+numbers = [13, 3, 7, 10, 24, 17, 2, 15, 34, 36, 38, 4]
+
+for number in numbers:
+    if number == 34:
+        print('Found : 34 !')
+        break
+    else:
+        print('Not Found : ', number)
+        continue
+
+# contiune
+lt = ["1", 2, 5, True, 4.3, complex(4)]
+
+for v in lt:
+    if type(v) is bool:
+        continue
+    else:
+        print("Current type", type(v))
+    
