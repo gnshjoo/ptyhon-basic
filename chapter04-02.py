@@ -99,4 +99,4 @@ for v in lt:
         continue
     else:
         print("Current type", type(v))
-    
+
