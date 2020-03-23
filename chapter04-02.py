@@ -100,3 +100,29 @@ for v in lt:
     else:
         print("Current type", type(v))
 
+# for - else
+numbers = [13, 3, 7, 10, 25, 17, 2, 15, 34, 36, 38, 4]
+
+for num in numbers:
+    if num == 24:
+        print("Found : 24")
+        break
+else:
+    print("Not Found : 24")
+
+
+
+# 구구단 출력
+
+for i in range(2, 10):
+    for j in range(1, 10):
+        print('{:4d}'.format(i*j), end="")
+    print()
+
+# 변환 예제
+name2 = 'Aceman'
+
+print('Reversed', reversed(name2))
+print('List', list(name2))
+print('tuple', (tuple(reversed(name2))))
+print('set', set(reversed(name2)))
