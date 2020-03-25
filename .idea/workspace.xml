@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c8f9dd2d-aac4-4b18-a6ba-4eb0d1487cf8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZZ1npSKb0cys7KJ2pK6Va1P1Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunManager" selected="Python.chapter05-02">
+    <configuration name="chapter05-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="chapter05-02" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Python-basic" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/chapter05-02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chapter05-01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c8f9dd2d-aac4-4b18-a6ba-4eb0d1487cf8" name="Default Changelist" comment="" />
+      <created>1585048363538</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585048363538</updated>
+      <workItem from="1585048368255" duration="6461000" />
+      <workItem from="1585093959588" duration="269000" />
+      <workItem from="1585120067791" duration="2352000" />
+      <workItem from="1585127077150" duration="317000" />
+      <workItem from="1585127519514" duration="131000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2194" y="669" key="#chapter05-02" timestamp="1585126903335">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state x="2194" y="669" key="#chapter05-02/0.23.3360.1809@0.23.3360.1809" timestamp="1585126903335" />
+    <state x="1984" y="589" width="1093" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585057138592">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state x="1984" y="589" width="1093" height="701" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.3360.1809@0.23.3360.1809" timestamp="1585057138592" />
+    <state width="1638" height="390" key="GridCell.Tab.0.bottom" timestamp="1585127394484">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="390" key="GridCell.Tab.0.bottom/0.23.3360.1809@0.23.3360.1809" timestamp="1585127394484" />
+    <state width="1638" height="390" key="GridCell.Tab.0.center" timestamp="1585127394483">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="390" key="GridCell.Tab.0.center/0.23.3360.1809@0.23.3360.1809" timestamp="1585127394483" />
+    <state width="1638" height="390" key="GridCell.Tab.0.left" timestamp="1585127394483">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="390" key="GridCell.Tab.0.left/0.23.3360.1809@0.23.3360.1809" timestamp="1585127394483" />
+    <state width="1638" height="390" key="GridCell.Tab.0.right" timestamp="1585127394483">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="390" key="GridCell.Tab.0.right/0.23.3360.1809@0.23.3360.1809" timestamp="1585127394483" />
+    <state width="1638" height="308" key="GridCell.Tab.1.bottom" timestamp="1585127067678">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="308" key="GridCell.Tab.1.bottom/0.23.3360.1809@0.23.3360.1809" timestamp="1585127067678" />
+    <state width="1638" height="308" key="GridCell.Tab.1.center" timestamp="1585127067678">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="308" key="GridCell.Tab.1.center/0.23.3360.1809@0.23.3360.1809" timestamp="1585127067678" />
+    <state width="1638" height="308" key="GridCell.Tab.1.left" timestamp="1585127067675">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="308" key="GridCell.Tab.1.left/0.23.3360.1809@0.23.3360.1809" timestamp="1585127067675" />
+    <state width="1638" height="308" key="GridCell.Tab.1.right" timestamp="1585127067678">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state width="1638" height="308" key="GridCell.Tab.1.right/0.23.3360.1809@0.23.3360.1809" timestamp="1585127067678" />
+    <state x="1902" y="505" width="1246" height="722" key="SettingsEditor" timestamp="1585127204125">
+      <screen x="0" y="23" width="3360" height="1809" />
+    </state>
+    <state x="1902" y="505" width="1246" height="722" key="SettingsEditor/0.23.3360.1809@0.23.3360.1809" timestamp="1585127204125" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python_basic$chapter05_02.coverage" NAME="chapter05-02 Coverage Results" MODIFIED="1585127632769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Python_basic$chapter05_01.coverage" NAME="chapter05-01 Coverage Results" MODIFIED="1585126165337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
